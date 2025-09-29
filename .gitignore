@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+Data/raw/sh_statbel_statistical_sectors_3812_20240101.geojson
+.ipynb_checkpoints
+.DS_Store
+.idea/
